@@ -34,7 +34,7 @@ Email - vs@xyz.com
 Phone - 000000000
 
 
-Once Anant checks in and enters his details in the application, Vishesh should get an email stating the visitor details. and also Anant gets an Email with his UserId which will be required during Check Out.
+Once Anant checks in and enters his details in the application, Vishesh should get an email stating the visitor details, and also Anant gets an Email with his UserId which will be required during Check Out.
 
 After the meeting or visit is over, and Anant checks out at 4:00 PM, Anant should get an emails
 stating his visit details :
@@ -46,3 +46,5 @@ stating his visit details :
 5. Host name
 6. Address visited
 
+
+Website Architecture-
