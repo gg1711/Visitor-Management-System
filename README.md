@@ -48,3 +48,5 @@ stating his visit details :
 
 
 Website Architecture-
+
+[Imgur](https://i.imgur.com/Jbv1Fbb.jpg)
