@@ -87,7 +87,7 @@ Host also receives mail on his guest entry which contains all information about 
 
 I created a php page to fetch data from the MySQl database which will show visitors details along with who is inside. <b> This page can only be viewed by manager or Authorised persons. I have kept its Url different, We can also keep a Authorisation system also to access this page.
   
-Please note that It is showing departure time of Sakshi Gupta, still as inside because she hasn'y checked out.
+Please note that It is showing departure time of Sakshi Gupta, still as inside because she hasn't checked out.
 
 # Check Out
 
@@ -97,17 +97,30 @@ Guest during the checkOut need to enter his EmailId and UserId to get verified.
 
 # Verification
 
-![Correct Details](https://i.imgur.com/ls11835.png)
-
 If the Visitor enters correct details, he will she this dialog box on his screen.
 
-![Wrong Details](https://i.imgur.com/U5gTUhI.png)
- 
+![Correct Details](https://i.imgur.com/ls11835.png)
+
 If the details do not match that of database, he will get an error dialog box.
+
+![Wrong Details](https://i.imgur.com/U5gTUhI.png)
+
+If the visitor tries to checkOut again, he will see this message in his dialog box.
 
 ![Already Checked out](https://i.imgur.com/ssVgJ9Y.png)
 
-If the visitor tries to checkOut again, he will see this message in his dialog box.
+# Database
+
+![database gets updated](https://i.imgur.com/vU1HbZ7.png)
+
+See the details of Sakshi Gupta, it is updated with her time of Checkout.
+
+# Visitor gets Thanks mail
+
+![visit complete](https://i.imgur.com/cKL9sGZ.png)
+
+Visitor receives one final mail with all his details as well an updated CheckIn and CheckOut time.
+
 
 
  
