@@ -50,3 +50,5 @@ stating his visit details :
 Website Architecture-
 
 [Imgur](https://i.imgur.com/Jbv1Fbb.jpg)
+[img]https://i.imgur.com/Jbv1Fbb.jpg[/img]
+https://imgur.com/Jbv1Fbb
