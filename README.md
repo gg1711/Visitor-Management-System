@@ -85,7 +85,7 @@ Host also receives mail on his guest entry which contains all information about 
 
 ![Database](https://i.imgur.com/0dM4z28.png)
 
-I created a php page to fetch data from the MySQl database which will show visitors details along with who is inside. <b> This page can only be viewed by manager or Authorised persons.</b> I have kept its Url different, We can also keep a Authorisation system also to access this page.
+I created a php page to fetch data from the MySQl database which will show visitors details along with who is inside. <b> This page can only be viewed by manager or Authorised persons.</b> I have kept its Url different <i>visitor.almafiesta.com/display.php</i> , We can also keep a Authorisation system also to access this page.
   
 Please note that It is showing departure time of Sakshi Gupta, still as inside because she hasn't checked out.
 
@@ -121,6 +121,15 @@ See the details of Sakshi Gupta, it is updated with her time of Checkout.
 
 Visitor receives one final mail with all his details as well an updated CheckIn and CheckOut time.
 
+<b>---------------------------------------------------------------------------------------------------------------</b>
+
+# Extensions
+
+1) As we have implemented our website with a Login access system, We can easily extend our Visitor Mangaement website to other tasks also.
+
+2) We can also keep a feedback form in the exit form, which will help us to get more idea about Host behaviour and capabilities.
+
+3) In case of busy schedule of host, we can keep a track of guest for host and provide a better meeting time. In this case, we will ask our visitors to first fill the form and get an idea of waiting time. This will help in better management of visitors and will not waste Visitors time.
 
 
  
