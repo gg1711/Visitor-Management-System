@@ -85,7 +85,7 @@ Host also receives mail on his guest entry which contains all information about 
 
 ![Database](https://i.imgur.com/0dM4z28.png)
 
-I created a php page to fetch data from the MySQl database which will show visitors details along with who is inside. <b> This page can only be viewed by manager or Authorised persons.</b> I have kept its Url different <i>visitor.almafiesta.com/display.php</i> , We can also keep a Authorisation system also to access this page.
+I created a php page to fetch data from the MySQl database which will show visitors details along with who is inside. <b> This page can only be viewed by manager or Authorised persons.</b> I have kept its Url different <i>http://visitor.almafiesta.com/display.php</i> , We can also keep a Authorisation system also to access this page.
   
 Please note that It is showing departure time of Sakshi Gupta, still as inside because she hasn't checked out.
 
@@ -121,9 +121,21 @@ See the details of Sakshi Gupta, it is updated with her time of Checkout.
 
 Visitor receives one final mail with all his details as well an updated CheckIn and CheckOut time.
 
-<b>---------------------------------------------------------------------------------------------------------------</b>
+<b>----------------------------------------------------------------------------------------------------------------------------------/b>
 
-# Extensions
+# Features
+
+1) This is a <b>responsive website</b> and will work on all devices. Use inspect to experience it.
+![Inspect](https://i.imgur.com/CtRWDds.png)
+
+2) This website has used HTML, CSS, Javascript, BootStrap, MySQl, PHP.
+
+3) This Visitor Management portal is live <i> http://visitor.almafiesta.com </i>. Please have a visit.
+
+4) Managers and Adminstrators can check the MySQL database. I have fetched all its details from MySQL to a dynamic webpage. Have a look <i> http://visitor.almafiesta.com/display.php </i>.
+
+
+# Further possible Extensions
 
 1) As we have implemented our website with a Login access system, We can easily extend our Visitor Mangaement website to other tasks also.
 
