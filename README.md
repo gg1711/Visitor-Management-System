@@ -52,4 +52,4 @@ Website Architecture-
 [Imgur](https://i.imgur.com/Jbv1Fbb.jpg)
 [img]https://i.imgur.com/Jbv1Fbb.jpg[/img]
 https://imgur.com/Jbv1Fbb
-https://i.imgur.com/Jbv1Fbb.jpg
+![Minimum Viable Model](https://i.imgur.com/Jbv1Fbb.jpg)
