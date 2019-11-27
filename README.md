@@ -49,6 +49,6 @@ stating his visit details :
 
 Website Architecture-
 
-![Minimum Viable Model](https://i.imgur.com/Jbv1Fbb.jpg)
+![Minimum Viable Model](https://i.imgur.com/DY8Yyzh.png)
 
 Steps given is actually showing working of website.
