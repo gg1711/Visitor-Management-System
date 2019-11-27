@@ -121,7 +121,7 @@ See the details of Sakshi Gupta, it is updated with her time of Checkout.
 
 Visitor receives one final mail with all his details as well an updated CheckIn and CheckOut time.
 
-<b>----------------------------------------------------------------------------------------------------------------------------------/b>
+<b>------------------------------------------------------------------------------------------------------------------------------------
 
 # Features
 
