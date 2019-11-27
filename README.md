@@ -85,7 +85,7 @@ Host also receives mail on his guest entry which contains all information about 
 
 ![Database](https://i.imgur.com/0dM4z28.png)
 
-I created a php page to fetch data from the MySQl database which will show visitors details along with who is inside. <b> This page can only be viewed by manager or Authorised persons. I have kept its Url different, We can also keep a Authorisation system also to access this page.
+I created a php page to fetch data from the MySQl database which will show visitors details along with who is inside. <b> This page can only be viewed by manager or Authorised persons.</b> I have kept its Url different, We can also keep a Authorisation system also to access this page.
   
 Please note that It is showing departure time of Sakshi Gupta, still as inside because she hasn't checked out.
 
