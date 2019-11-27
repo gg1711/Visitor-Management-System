@@ -128,7 +128,7 @@ Visitor receives one final mail with all his details as well an updated CheckIn 
 1) This is a <b>responsive website</b> and will work on all devices. Use inspect to experience it.
 ![Inspect](https://i.imgur.com/CtRWDds.png)
 
-2) This website has used HTML, CSS, Javascript, BootStrap, MySQl, PHP.
+2) This website has used HTML, CSS, Javascript, BootStrap, MySQl, PHP. This is created from scratch and no template is copied.
 
 3) This Visitor Management portal is live <i> http://visitor.almafiesta.com </i>. Please have a visit.
 
