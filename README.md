@@ -20,18 +20,18 @@ leaves. This should trigger an email to the guest with the complete form which s
 
 # Example of the intended workflow
 
-Visitor Details:
-Name - Anant Sharma
-Email - a.sharma@xyz.com
-Phone - 9999999999
-Checkin Time - 9:00 AM IST
-Checkout Time - 4:00 PM IST
+Visitor Details:<br>
+Name - Anant Sharma<br>
+Email - a.sharma@xyz.com<br>
+Phone - 9999999999<br>
+Checkin Time - 9:00 AM IST<br>
+Checkout Time - 4:00 PM IST<br>
 
 
-Host Details:
-Name - Vishesh Singh
-Email - vs@xyz.com
-Phone - 000000000
+Host Details:<br>
+Name - Vishesh Singh<br>
+Email - vs@xyz.com<br>
+Phone - 000000000<br>
 
 
 Once Anant checks in and enters his details in the application, Vishesh should get an email stating the visitor details, and also Anant gets an Email with his UserId which will be required during Check Out.
@@ -39,12 +39,12 @@ Once Anant checks in and enters his details in the application, Vishesh should g
 After the meeting or visit is over, and Anant checks out at 4:00 PM, Anant should get an emails
 stating his visit details :
 
-1. Name
-2. Phone
-3. Check-in time,
-4. Check-out time,
-5. Host name
-6. Address visited
+1. Name<br>
+2. Phone<br>
+3. Check-in time<br>
+4. Check-out time<br>
+5. Host name<br>
+6. Address visited<br>
 
 
 Website Architecture-
