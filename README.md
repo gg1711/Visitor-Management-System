@@ -47,8 +47,67 @@ stating his visit details :
 6. Address visited<br>
 
 
-Website Architecture-
+# Website Architecture-
 
-![Minimum Viable Model](https://i.imgur.com/dsNBuOJ.jpg)
+![Architecture](https://i.imgur.com/dsNBuOJ.jpg)
 
 Steps given is actually showing working of website.
+
+1) Visitor needs to fill his details in the website.
+2) He will receive a mail with his unique UserId. In the meantime, Visitor's host will also receive a mail that a guest has arrived for him.
+3) During the checkout, Visitor needs to enter his UserId and Email Id which will be verified from the database. If the User is laready inside, then he can successfully CheckOut.
+
+# Main Page
+
+![Main Page](https://i.imgur.com/Ae7FNM7.png)
+
+# Registration Form
+
+![Registration](https://i.imgur.com/hL1t22r.png)
+
+# Javascript Message
+
+![Simple Message with UserId](https://i.imgur.com/yue9Mor.png)
+
+# Visitors mail on Entry
+
+![Visitors Mail](https://i.imgur.com/FfVl8ae.png)
+
+Contains all important details specially UserID which will be used in Exiting.
+
+# Host mail on Entry
+
+![Host Mail](https://i.imgur.com/5DtupBw.png)
+
+Host also receives mail on his guest entry which contains all information about guest along with the CheckIn time.
+
+# Database gets updated
+
+![Database](https://i.imgur.com/0dM4z28.png)
+
+I created a php page to fetch data from the MySQl database which will show visitors details along with who is inside. <b> This page can only be viewed by manager or Authorised persons. I have kept its Url different, We can also keep a Authorisation system also to access this page.
+  
+Please note that It is showing departure time of Sakshi Gupta, still as inside because she hasn'y checked out.
+
+# Check Out
+
+![Exit](https://i.imgur.com/6wGbdiJ.png)
+
+Guest during the checkOut need to enter his EmailId and UserId to get verified.
+
+# Verification
+
+![Correct Details](https://i.imgur.com/ls11835.png)
+
+If the Visitor enters correct details, he will she this dialog box on his screen.
+
+![Wrong Details](https://i.imgur.com/U5gTUhI.png)
+ 
+If the details do not match that of database, he will get an error dialog box.
+
+![Already Checked out](https://i.imgur.com/ssVgJ9Y.png)
+
+If the visitor tries to checkOut again, he will see this message in his dialog box.
+
+
+ 
